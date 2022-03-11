@@ -4,7 +4,7 @@ export const listData = [
     materia: 'Negócios e Marketing e Eletrônicos',
     dia: 'Quarta-feira',
     horario: '19h às 22h30',
-    dados: 'oi',
+    totalAulas: 80,
     ementa:
       'Conceitos de marketing e de marketing digital. O comportamento do consumidor on-line. Marketing de conteúdo. Marketing nas mídias sociais. E-mail marketing. Marketing viral. Publicidade on-line. Pesquisa de marketing on-line. Marketing e os negócios na Internet. Estudos de caso',
     objetivo:

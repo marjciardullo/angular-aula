@@ -1,7 +1,15 @@
 <h2>Item da Lista</h2>
 <a [routerLink]="['/list']">BACK</a>
-<h3>ID:</h3>
+<h3>ID da Matéria:</h3>
 <div>{{ item.id }}</div>
 
 <h3>Matéria:</h3>
-<div>{{ item.text }}</div>
+<div>{{ item.materia }}</div>
+
+<h3>Dados da Matéria:</h3>
+<div>Total de aulas: {{ item.totalAulas }}</div>
+
+<h3>Ementa:</h3>
+<p>{{ item.ementa }}</p>
+
+<h3>Objetivos da Matéria:</h3>
