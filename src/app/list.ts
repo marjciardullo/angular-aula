@@ -67,7 +67,7 @@ export const listData = [
   {
     id: 7,
     materia: 'Projeto de Trabalho de Graduação em Sistemas para Internet I',
-    dia: 'Quarta-feira',
+    dia: 'Sábado',
     horario: '11h30 às 13h',
     totalAulas: 40,
     ementa:
